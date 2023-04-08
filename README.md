@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/geoconR?style=social)](https://twitter.com/geoconR)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=wildeco.wildeco)
 
-I am a research assistant in the [ICON Science Group](https://icon-science.org/) at the [RMIT University](https://www.rmit.edu.au/). My research interests include geospatial modelling, machine learning, spatial conservation prioritization. I am passionate about wildlife conservation. More information about my research can be found in my [website]([wildeco.github.com](https://wildeco.github.io/)). 
+I am a research assistant in the [ICON Science Group](https://icon-science.org/) at the [RMIT University](https://www.rmit.edu.au/). My research interests include geospatial modelling, machine learning, spatial conservation prioritization. I am passionate about wildlife conservation. More information about my research can be found in my [website](https://wildeco.github.io/) 
 
 ## Education
 - PhD Conservation Science, [RMIT University, Australia](https://www.rmit.edu.au/)
